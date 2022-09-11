@@ -1,6 +1,6 @@
 #OLÁ, EU SOU WILLIAM MAIS CONHECIDO COMO MAZZA
 
-- 🧑‍🎓 estudando javascript
+- 🧑‍🎓 estudando Python
 - 🧑‍🎓 formado em Analise e Desenvolvimento de Sistemas
 - 🧑‍🎓 Tecnico em Computação grafica
 - 💡🔎 UX/UI
